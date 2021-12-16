@@ -11,8 +11,8 @@
   ## Usage Instructions
   run this application in the terminal after installing the proper npm packages
  
-  ## Testing 
-  need to run index.js in terminal
+  ## Running
+  need to run 'node index.js' in terminal
   
   ## demo
   https://youtu.be/irGrMwqJwas
